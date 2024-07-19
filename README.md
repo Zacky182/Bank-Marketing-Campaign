@@ -1,2 +1,2 @@
 # Bank-Marketing-Campaign
-Machine Learning Project 3
+Machine Learning Project
